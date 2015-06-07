@@ -18,4 +18,8 @@ class plgJshoppingCheckoutOrderNetto extends JPlugin{
         
     }
     
+    function xxx(){
+        
+    }
+    
 }
