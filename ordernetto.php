@@ -14,4 +14,8 @@ class plgJshoppingCheckoutOrderNetto extends JPlugin{
         updateAllprices();
     }
     
+    function nnn(){
+        
+    }
+    
 }
