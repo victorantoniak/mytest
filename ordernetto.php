@@ -1,4 +1,7 @@
 <?php
+/**
+* Version error fix 1
+*/
 defined('_JEXEC') or die('Restricted access');
 
 class plgJshoppingCheckoutOrderNetto extends JPlugin{
