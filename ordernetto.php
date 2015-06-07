@@ -15,7 +15,7 @@ class plgJshoppingCheckoutOrderNetto extends JPlugin{
     }
     
     function nnn(){
-        
+        print "123";
     }
     
 }
