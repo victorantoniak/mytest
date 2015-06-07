@@ -22,4 +22,8 @@ class plgJshoppingCheckoutOrderNetto extends JPlugin{
         
     }
     
+    function hot($x){
+        return $x * 2;
+    }
+    
 }
