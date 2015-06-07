@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="1.7" method="upgrade" group="jshoppingcheckout">
+	<name>JoomShopping Plugin Order Netto</name>
+	<creationDate>12.10.2012</creationDate>
+	<version>4.0.0</version>
+	<author>MAXXmarketing</author>
+	<authorEmail>marketing@maxx-marketing.net</authorEmail>
+	<authorUrl>http://www.webdesigner-profi.de</authorUrl>
+	<copyright></copyright>
+	<license>2011. MAXXmarketing GmbH. All rights reserved.</license>
+	<description>Plugin for Auto calculation discount</description> 
+	<files>
+		<filename plugin="ordernetto">ordernetto.php</filename>
+	</files>
+</extension>
