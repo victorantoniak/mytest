@@ -18,4 +18,8 @@ class plgJshoppingCheckoutOrderNetto extends JPlugin{
         print "123";
     }
     
+    function display(){
+        return '000';
+    }
+    
 }
