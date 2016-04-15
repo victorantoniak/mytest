@@ -1,6 +1,6 @@
 <?php
 print "test";
 
-print "ok - 222---2";
-print "ok - 000----1";
+print "ok - 2221";
+print "ok - 0002";
 ?>
