@@ -1,6 +1,6 @@
 <?php
 
 print "test";
-print "ok";
+print "ok -";
 
 ?>
