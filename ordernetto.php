@@ -1,7 +1,7 @@
 <?php
 defined('_JEXEC') or die('Restricted access');
 
-//branch br2 - 0000
+//branch br2 - 0000 cb
 
 class plgJshoppingCheckoutOrderNetto extends JPlugin{
     
