@@ -4,6 +4,8 @@
 */
 defined('_JEXEC') or die('Restricted access');
 
+//branch br2 - 0000 cb
+
 class plgJshoppingCheckoutOrderNetto extends JPlugin{
     
     public function onLoadCheckoutStep5(){
@@ -19,6 +21,10 @@ class plgJshoppingCheckoutOrderNetto extends JPlugin{
     
     function nnn(){
         print "123";
+    }
+    
+    function display(){
+        return '000';
     }
     
     function xxx(){
