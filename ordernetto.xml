@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="plugin" version="1.7" method="upgrade" group="jshoppingcheckout">
 	<name>JoomShopping Plugin Order Netto</name>
-	<creationDate>12.10.2012</creationDate>
+	<creationDate>12.10.2016</creationDate>
 	<version>4.0.0</version>
 	<author>MAXXmarketing</author>
 	<authorEmail>marketing@maxx-marketing.net</authorEmail>
