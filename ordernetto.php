@@ -2,7 +2,7 @@
 /**
 * Version error fix 1
 */
-defined('_JEXEC') or die('Restricted access');
+defined('_JEXEC') or die();
 
 class plgJshoppingCheckoutOrderNetto extends JPlugin{
     
